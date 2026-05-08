@@ -260,4 +260,5 @@ This project was created to practice:
 ---
 
 Built with SQL Server & SSMS to transform raw warehouse data into actionable business insights 🗄️📊
+<br>
 Author - Toufique Ahmed Khan
