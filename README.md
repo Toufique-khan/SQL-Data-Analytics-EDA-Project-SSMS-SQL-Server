@@ -227,11 +227,6 @@ Business Insights & Reporting
 
 ---
 
-# 📷 Query & Output Preview
-
-(Add screenshots of SQL queries and outputs here)
-
----
 
 # 📁 Project Includes
 
